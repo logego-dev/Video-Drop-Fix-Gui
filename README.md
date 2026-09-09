@@ -10,7 +10,7 @@ It supports OpenCV DIS optical flow and an external `rife-ncnn-vulkan` executabl
 
 > **Experimental software:** Keep an independent backup of important footage. Verify orientation, audio/video synchronization, and repaired sections before using the output for production or multicamera editing.
 
-![Uploading image.png…]()
+<img width="1774" height="887" alt="photo_2026-09-09_22-47-48" src="https://github.com/user-attachments/assets/78e5f3c2-1e04-472a-a500-d88ff417bdae" />
 
 ## Features
 
