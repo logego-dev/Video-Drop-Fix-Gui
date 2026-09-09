@@ -9,6 +9,7 @@ FixDrops analyzes video presentation timestamps (PTS), maps source images onto a
 It supports OpenCV DIS optical flow and an external `rife-ncnn-vulkan` executable, with NVIDIA NVENC or CPU encoding.
 
 > **Experimental software:** Keep an independent backup of important footage. Verify orientation, audio/video synchronization, and repaired sections before using the output for production or multicamera editing.
+
 ![Uploading image.png…]()
 
 ## Features
